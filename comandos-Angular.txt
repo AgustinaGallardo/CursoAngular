@@ -1,0 +1,11 @@
+COMANDOS ANGULAR:
+
+1) ng new NombreCarpeta
+2) N
+3) CSS
+4) cd NombreCarpeta (Para ubicar la consola en la carpeta)
+5)ng serve --open // ng serve -o (para abrir el navegador)
+6)ctrl C (Para cerrar el navegador)
+
+---Para generar un componente automaticamente
+7) ng g c NombreComponente
